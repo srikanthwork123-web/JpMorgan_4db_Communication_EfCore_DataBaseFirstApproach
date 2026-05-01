@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="JPMORGAN_LOANSAPI/JPMORGAN_LOANSAPI.csproj" />
+  </Folder>
+  <Folder Name="/CLASSLIBRARIES/">
+    <Project Path="JPMORGAN_LOANS_BusinessEntities/JPMORGAN_LOANS_BusinessEntities.csproj" />
+    <Project Path="JPMORGAN_LOANS_DbConnectivity/JPMORGAN_LOANS_DbConnectivity.csproj" />
+    <Project Path="JPMORGAN_LOANS_Repository/JPMORGAN_LOANS_Repository.csproj" />
+    <Project Path="JPMORGAN_LOANS_ServiceLayer/JPMORGAN_LOANS_ServiceLayer.csproj" />
+  </Folder>
+  <Folder Name="/TESTCASE/">
+    <Project Path="JPMORGAN_LOANS_UnitTest/JPMORGAN_LOANS_UnitTest.csproj" />
+  </Folder>
+</Solution>
